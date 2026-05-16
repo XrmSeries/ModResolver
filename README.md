@@ -1,7 +1,7 @@
 # ModResolver 🔑
 
 <div align="center">
-<img src="ModResolver.png" width="700"/>
+<img src="ModResolver.png" width="300"/>
 </div>
 
 [中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md)
