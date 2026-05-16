@@ -1,8 +1,10 @@
 # ModResolver 🔑
 
-
-<img src="ModResolver.png" width="300"/>
-
+<div align="center">
+<img src="ModResolver.png" width="200"/>
+<br>
+<img src="W1.png" width="900"/>
+</div>
 
 [中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md)
 
