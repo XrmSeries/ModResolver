@@ -1,6 +1,6 @@
 # ModResolver 🔑
 
-<img src="ModResolver.png" width="800"/>
+<img src="ModResolver.png" width="700"/>
 
 [中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md)
 
