@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="ModResolver.png" width="200"/>
-<br><br>
+<br>
 <img src="W1.png" width="900"/>
 </div>
 
