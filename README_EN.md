@@ -1,5 +1,7 @@
 # ModResolver 🔑
 
+<img src="ModResolver.png" width="800"/>
+
 [中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md)
 
 > Precise missing mod resolver for HoneySelect2 / Koikatsu
