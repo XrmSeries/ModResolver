@@ -63,6 +63,16 @@ The Paid Edition offers a more efficient experience and long-term support:
 
 > 💡 The Free Edition is fully functional with a free trial on first launch. The Paid Edition unlocks unlimited batch operations and maximum speed.
 
+Free users can directly use the latest data files shared by paid users to skip the indexing step and avoid long waiting times caused by low thread limits.
+
+The following data directories can be shared:
+
+.modresolver\crawl_cache
+
+.modresolver\db
+
+Please do not share other directories, as they may contain your private data.
+
 ---
 
 ## 🛒 Get the Paid Edition
