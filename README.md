@@ -77,7 +77,7 @@ ModResolver **免费版即可完整使用全部功能**，无功能阉割，无�
 
 ## 🛒 获取付费版
 
-**29.9 CNY 一次购买永久使用**，支持开发者持续优化和更新 👉 [爱发电购买](https://afdian.com/a/xrmpc?tab=shop)
+**29.9 CNY 一次购买永久使用**，支持开发者持续优化和更新 👉 [前往 StarCute Shop 购买](https://shop.xrmsoft.com/)
 
 购买后在软件中点击「激活」→ 输入卡密 → 立即解锁。
 
@@ -118,4 +118,4 @@ A: 如果你有大量卡片需要批量补全，付费版的 200 线程索引和
 
 ---
 
-🔗 [爱发电](https://afdian.com/a/xrmpc?tab=shop) · [官方文档](https://docs.xrmsoft.com/)
+🔗 [StarCute](https://shop.xrmsoft.com/) · [官方文档](https://docs.xrmsoft.com/)
